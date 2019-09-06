@@ -14,6 +14,7 @@ Simple Chat using Laravel + Socket.io, You can see slide [here](https://slides.c
 $ git clone https://github.com/andhikayuana/laravel-socket.io.git
 $ cd laravel-socket.io
 $ composer install
+$ php artisan key:generate
 $ npm install
 $ npm run dev
 $ npm run socket-io-server
